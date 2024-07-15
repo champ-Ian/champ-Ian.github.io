@@ -1,0 +1,193 @@
+
+body{
+    padding:  3%;
+    font-family:  papyrus;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 6%, rgba(157,119,41,1) 24%, rgba(185,41,0,1) 32%
+    ,rgba(25,119,10,1) 46%, rgba(57,105,225,1) 54%, rgba(175,185,241,1) 72%, rgba(212,193,46,1) 79%, rgba(
+    50,79,117,1) 90%);}
+
+#title{
+    font-size: 400%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#mud{
+    border-radius: 30px;
+    font-size: 250%;
+    border:  outset 9px rgb(157,119,41);
+    width:  100%;
+
+
+}
+#mud:hover{
+    background: white;
+}
+#mudabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#limud{
+    border-radius:  12px;
+    display:  block;
+    background: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 110px;
+}
+#limud:hover{
+    background:  rgba(157,119,41,0.5);
+}
+#sky{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(185,41,0);
+    width:  100%;
+}
+#sky:hover{
+    background: white;
+}
+#skyabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#lisky{
+    border-radius:  12px;
+    display:  block;
+    background: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 105px;
+}
+#lisky:hover{
+    background: rgba(185,41,0,0.4);
+}	
+#rain{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(25,119,10);
+    width:  100%;
+}
+#rain:hover{
+    background: white;
+}
+#rainabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#lirain{
+    border-radius:  12px;
+    background: rgb(255,255,255);
+    color: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 105px;
+}
+#lirain:hover{
+    background:  rgba(25,119,10,0.5);
+}	
+#sea{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(57,105,225);
+    width:  100%;
+}
+#sea:hover{
+    background: white;
+}
+#seaabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#lisea{
+    border-radius:  12px;
+    background: rgb(255,255,255);
+    color: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 105px;
+}
+#lisea:hover{
+    background:  rgba(57,105,225,0.8);
+}		
+#ice{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(175,185,241);
+    width:  100%;
+}
+#ice:hover{
+    background: white;
+}
+#iceabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#liice{
+    border-radius:  12px;
+    background: rgb(255,255,255);
+    color: rgb(255,255,255);
+    padding: 3px;
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 85px;
+}
+#liice:hover{
+    background:  rgb(175,185,241);
+}		
+#sand{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(212,193,46);
+    width:  100%;
+}
+#sand:hover{
+    background: white;
+}
+#sandabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#lisand{
+    border-radius:  12px;
+    background: rgb(255,255,255);
+    color: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 115px;
+}
+#lisand:hover{
+    background:  rgba(212,193,46,0.3);
+}				
+#night{
+    border-radius: 30px;
+    font-size: 250%;
+    color:  rgb(0,0,0);
+    border:  outset 9px rgb(44,0,54);
+    width:  100%;
+}
+#night:hover{
+    background: white;
+}
+#nightabi{
+    font-size: 200%;
+    color:  rgb(0,0,0);
+}
+#linight{
+    border-radius:  12px;
+    background: rgb(255,255,255);
+    color: rgb(255,255,255);
+    padding: 3px;
+    border: outset 2px rgb(0,0,0);
+    width: 115px;
+}
+#linight:hover{
+    background:  rgba(50,79,117,0.5);
+}
